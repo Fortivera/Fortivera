@@ -11,8 +11,8 @@ My name is Anton and I'm a self-taught software engineer from Canada. Here's som
     
 🌱 Interests:
 
-    Web development.
-    Producing cinematic films with digital cameras and drones.
+    - Web development.
+    - Producing cinematic films with digital cameras and drones.
 
 💬 Reach me by email or LinkedIn! antonstrelkovskyy@gmail.com | https://www.linkedin.com/in/anton-strelkovskyy
 
