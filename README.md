@@ -16,3 +16,5 @@ My name is Anton and I'm a self-taught software engineer from Canada. Here's som
 
 💬 Reach me by email or LinkedIn! antonstrelkovskyy@gmail.com | https://www.linkedin.com/in/anton-strelkovskyy
 
+🌎 Visit my personal website to view my portfolio: https://antonstrelkovskyycv.web.app
+
