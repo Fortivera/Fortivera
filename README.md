@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Anton and I'm a software engineer from Canada. Here's some info about me!
+My name is Anton and I'm a full-stack developer from Canada. Here's some info about me!
 
 ⚡ Projects:
     
