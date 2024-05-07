@@ -1,20 +1,15 @@
 ### Hi there! 👋
 
-My name is Anton and I'm a full-stack developer from Canada. Here's some info about me!
+I'm [Anton](https://www.antonstrelkovskyy.com), a software developer from Canada.
 
-⚡ Projects:
-    
-    - Recipe generator app that take your ingredient input and blesses you with lots of tasty recipes
-    - Rainy weather notifier, uses an API of a weather website and returns a rain forecast for the city of your choice
-    - Pomodoro timer, with an actual tomato that is ready to keep you on track to your decided 
-    - Snake, everyone in their childhood has played the famous pixel eating snake. This will bring back memories
-    
-🌱 Interests:
+My world revolves around reaching new heights with a cup of coffee in my hand.🏔️☕  
+I do frontend and backend development, while also exploring the analytical world of machine learning.🖥️  
+I find my inspiration from photography and cinematography.📷
 
-    - Development in frontend and backend, letting my creativity do the work.
-    - Producing cinematic films with digital cameras and drones.
+**💬 Let's connect!**
 
-💬 Reach me by email or LinkedIn! antonstrelkovskyy@gmail.com | https://www.linkedin.com/in/anton-strelkovskyy
-
-🌎 Visit my personal website to view my portfolio: https://antonstrelkovskyycv.web.app
-
+<p dir="auto">
+    <a href="https://linkedin.com/in/gazijarin" rel="nofollow">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white">
+    </a>
+</p>
