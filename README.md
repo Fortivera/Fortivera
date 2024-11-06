@@ -2,7 +2,7 @@
 
 I'm [Anton](https://www.antonstrelkovskyy.com), a software developer from Canada.
 
-⚡Currently: Founder & Software Developer at [Graphalytics](https://www.graphalytics.co/)
+⚡Currently: Software Developer at [Graphalytics](https://www.graphalytics.co/)
  
 Passionate about frontend and backend development, while also exploring the analytical world of machine learning.🖥️  
 I find my inspiration from photography and cinematography.📷
